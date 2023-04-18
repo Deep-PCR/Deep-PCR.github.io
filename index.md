@@ -7,6 +7,8 @@ The DL-based PC representation solutions will simultaneously accommodate compres
 
 This work was funded by the Fundação para a Ciência e Tecnologia (FCT, Portugal) through the research project PTDC/EEI-COM/1125/2021, entitled “Deep Learning-based Point Cloud Representation”.
 
+<img src="https://user-images.githubusercontent.com/124708731/232837219-00b86721-7c8b-49af-a9d9-c5721a4455a5.gif" width=20% height=20%>
+
 
 
 # About
